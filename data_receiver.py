@@ -1,7 +1,6 @@
 #Import the necessary methods from tweepy library
 from tweepy.streaming import StreamListener
-from tweepy import OAuthHandler
-from tweepy import Stream
+from tweepy import OAuthHandler,Stream
 
 #Variables that contains the user credentials to access Twitter API 
 access_token = "Place Your twitter api access token"
