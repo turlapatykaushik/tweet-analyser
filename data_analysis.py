@@ -1,7 +1,4 @@
-import json,re
-import pandas as pd
-import matplotlib.pyplot as plt
-
+import json,re, pandas as pd, matplotlib.pyplot as plt
 tweets_data_path = 'Give the PATH to the file in which text is stored'
 
 tweets_data = []
