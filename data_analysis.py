@@ -32,7 +32,7 @@ tweets_by_wrestlers = [tweets['johncena'].value_counts()[True], tweets['undertak
 x_pos = list(range(len(wrestlers)))
 width = 0.8
 fig, ax = plt.subplots()
-plt.bar(x_pos, tweets_by_wrestlers, width, alpha=1, color='g')
+plt.bar(x_pos, tweets_by_wrestlers, width, alpha=1, color='b')
 
 ax.set_ylabel('Number of tweets', fontsize=15)
 ax.set_title('Ranking: johncena vs. undertaker vs. randyorton (Raw data)', fontsize=10, fontweight='bold')
