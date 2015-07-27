@@ -14,4 +14,6 @@
 
 - Then run `python data_analysis.py`
 
+- `A bar graph is generated comparing the three superstars and also the data is printed on the console`
+
 - `Remember to install tweepy and pandas`
