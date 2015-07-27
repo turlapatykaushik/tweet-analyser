@@ -14,4 +14,4 @@
 
 - Then run `python data_analysis.py`
 
-- `Remember to insall tweepy and pandas`
+- `Remember to install tweepy and pandas`
