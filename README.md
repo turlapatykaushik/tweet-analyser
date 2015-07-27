@@ -1,10 +1,10 @@
 # tweet-analyser
 
-- `This is a tweet analyser where the tweets were collected using the twitter api and text mining techniques were applied `
+- `This is a tweet analyser where the tweets are collected using the twitter api and text mining techniques are applied `
 
-- `The analysis was made to find out which WWE Superstar is more popular on twitter`
+- `The analysis is made to find out which WWE Superstar is more popular on twitter`
 
-- `The comparison was done between Johncena, Undertaker, Randyorton`
+- `The comparison is done between Johncena, Undertaker, Randyorton`
 
 - `Clone the repo and then just use your api tokens in the file data_receiver.py`
 
